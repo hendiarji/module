@@ -1,4 +1,5 @@
-const Table = require("./index");
+// const Table = require("./index");
+import Table from "./index.js";
 const table = new Table({
   columns: ["Nomor", "Name", "Email", "Alamat"],
   data: [

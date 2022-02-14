@@ -39,4 +39,6 @@ class Table {
   }
 }
 
-module.exports = { Table };
+// module.exports = { Table };
+
+export default Table;
